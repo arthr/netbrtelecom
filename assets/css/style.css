@@ -250,7 +250,8 @@ h6+.image:not([class*="mt-"]),
 .io-azure .section-pro-alt h5,
 .io-azure .section-pro-alt h6,
 .io-azure .section-pro-alt blockquote {
-	color: #1641b5
+	/* color: #1641b5 */
+	color: #f3b325;
 }
 
 h1,
@@ -4101,6 +4102,7 @@ select:focus {
 
 .io-azure .text-block .heading-xs {
 	color: #16a4fd
+	/* color: #8fc54b; */
 }
 
 .io-azure .section-pro .text-block p:not(.lead),
@@ -4160,7 +4162,8 @@ select:focus {
 
 .io-azure .section-pro .features-box h5,
 .io-azure .section-pro-alt .features-box h5 {
-	color: #313c56
+	/* color: #313c56 */
+	color: #16a3fe;
 }
 
 .io-azure .section-pro .features-box p,
